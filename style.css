@@ -1,0 +1,45 @@
+.letter-backgound{
+    background-color: #000;
+    color: #00ffff;
+    max-width: 600px;
+}
+
+.letter-header{
+    font-family: sans-serif;
+    font-size: 24px;
+    letter-spacing: -1px;
+}
+.letter-text{
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+    line-height: 28px;
+    color: #fff;
+
+}
+.letter-image{
+    width: 100%;
+}
+
+.letter-link{
+    display: inline-block;
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.letter-icon{
+    height: 20px;
+}
+.black-backgound{
+    height: 60px;
+    background-image: url("img/bgi.png");
+    background-repeat: repeat;
+    background-size: 50px;
+}
+.letter-footer{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
